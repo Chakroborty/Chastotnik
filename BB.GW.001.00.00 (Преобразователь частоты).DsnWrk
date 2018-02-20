@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Library\BB.GW.001.LibPkg
+[Project2]
+ProjectPath=BB.GW.001.01.00 (Силовой модуль).PrjPcb
+[Project3]
+ProjectPath=BB.GW.001.00.00 (Преобразователь частотный).PrjPCB
